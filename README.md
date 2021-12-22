@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play mouth organ
 
 ### Spotify Playing 🎧
 
@@ -67,7 +67,7 @@
 
 </details>
 
-[website]: https://medium.com/@skkamal6301
+[website]: http://skkamalhossain.epizy.com
 [twitter]: https://twitter.com/SKKamalHossai10
 [youtube]: https://www.youtube.com/channel/UCUvWbrcbST7hGfZR8cTAuWw?view_as=subscriber
 [instagram]: https://www.instagram.com/sk_kamal09/
